@@ -1,5 +1,5 @@
 <h3 align="center">🌱 Apenas um pequeno gafanhoto aprendendo.</h3>
-<h5 align="center">🎓 Estudando Desenvolvimento de Software na Faetec </h5>
+<h3 align="center">🎓 Estudando Desenvolvimento de Software na Faetec </h3>
 
 ###
 
