@@ -1,23 +1,29 @@
-## Olá! Sou Carlos, bem-vindo ao meu perfil  🕶️
+<h1 align="center">🌱 Apenas um pequeno gafanhoto aprendendo.</h1>
 
+###
 
-- 🎓 Atualmente estudando Desenvolvimento de Sistemas na Faetec.
-- 🌱 Me tornando apenas um pequeno gafanhoto em Java | Kotlin | Javascript.
-
-
-<div>
-  <a href="https://github.com/carlosbolicojr">
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=carlosbolicojr&theme=holi&show_icons=true"/>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosbolicojr&theme=holi&layout=compact&langs_count=8"/>
-  </a>
-</div>  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Carlos-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Carlos-Avatar" target="_blank" height="15%" width="15%" src="https://media.discordapp.net/attachments/400165084762210306/1420803739308261466/carlosbolicojr.gif?ex=68d6ba18&is=68d56898&hm=b0c40ebe83496b826b6cf580fcce5cab00f1ec3f81907bbc8f3578a4a02919d5&=&width=968&height=968" />
-
-
-![Snake animation](https://github.com/carlosbolicojr/carlosbolicojr/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=carlosbolicojr&locale=pt&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=carlosbolicojr&theme=material-palenight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosbolicojr/carlosbolicojr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosbolicojr/carlosbolicojr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlosbolicojr/carlosbolico.jr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
