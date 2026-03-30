@@ -2,7 +2,7 @@
 
 
 - 🎓 Atualmente estudando Desenvolvimento de Sistemas na Faetec.
-- 🌱 Estudando Java + SQL.
+- 🌱 Me tornando apenas um pequeno gafanhoto em Java | Kotlin | Javascript.
 
 
 <div>
