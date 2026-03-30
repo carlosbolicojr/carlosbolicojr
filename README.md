@@ -1,4 +1,5 @@
-<h1 align="center">🌱 Apenas um pequeno gafanhoto aprendendo.</h1>
+<h3 align="center">🌱 Apenas um pequeno gafanhoto aprendendo.</h3>
+<h5 align="center">🎓 Estudando Desenvolvimento de Software na Faetec </h5>
 
 ###
 
@@ -14,8 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=carlosbolicojr&locale=pt&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=carlosbolicojr&theme=material-palenight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com/?user=carlosbolicojr&locale=pt&mode=daily&theme=city-lights&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
